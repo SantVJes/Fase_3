@@ -1,0 +1,7 @@
+edu.uconn.sba;1;1
+counterculture;4;4
+corporation;4;7
+ertekeinket;4;5
+pro-american;4;6
+bigger;2;0
+denomina;1;2
